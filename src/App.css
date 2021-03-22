@@ -1,5 +1,94 @@
 .App {
-  text-align: center;
+  text-align: left;
+}
+
+.instructions {
+  display: inline-block;
+  width: 50%;
+}
+
+.employee100 {
+  width: 100px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employee150 {
+  width: 150px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employee200 {
+  width: 200px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employee300 {
+  width: 300px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employeeData100 {
+  width: 100px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employeeData150 {
+  width: 150px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employeeData200 {
+  width: 200px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.employeeData300 {
+  width: 300px;
+  display:inline-block;
+  text-align: left;
+  padding: 0px;
+  font-size: 15px;
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+.data {
+    margin: -2px 0px;
 }
 
 .App-logo {
